@@ -8,12 +8,12 @@ To write a program to implement the SVM For Spam Mail Detection.
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-#### step-1: Start.
-#### step-2: Import chardet.
-#### step-3: Read the dataset.
-#### step-4: Import SVC from sklearn.
-#### step-5: Fit the data in the model and run the algorithm.
-#### step-6: Stop.
+#### Step-1: Start.
+#### Step-2: Import chardet.
+#### Step-3: Read the dataset.
+#### Step-4: Import SVC from sklearn.
+#### Step-5: Fit the data in the model and run the algorithm.
+#### Step-6: Stop.
 
 ## Program:
 ```
